@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:4.0
+N:Gump;Forrest;;Mr.;
+FN:Sheri Nom
+ORG:Sheri Nom Co.
+TITLE:Ultimate Professor
+ROLE:Associate Professor
+TEL;:+1-111-555-1212
+EMAIL:sherinnom@example.com
+END:VCARD
